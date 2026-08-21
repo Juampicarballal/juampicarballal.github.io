@@ -5,8 +5,8 @@ header {
 background-color: #4d99b2;
 }
 body {
-background-color: #af6350;
-color: blue
+background-color: #21d6de;
+color: white
 }
 img{
   display:block;
@@ -19,11 +19,11 @@ img{
 }
 body {
 background-color: #4d99b2;
-color: blue
+color: white
 text-align: center
 }
 header {
-background-color: #af6350;
+background-color: #21d6de;
   height: 3cm;
 }
 h1 {
