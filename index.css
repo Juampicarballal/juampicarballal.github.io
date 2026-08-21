@@ -1,12 +1,9 @@
 body {
-background-color: ##21d6de;
+background-color: #21d6de;
+color: white
 }
 header {
 background-color: ##21d6de;
-}
-body {
-background-color: #21d6de;
-color: white
 }
 img{
   display:block;
