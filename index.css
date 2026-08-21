@@ -8,3 +8,25 @@ body {
 background-color: #af6350;
 color: blue
 }
+img{
+  display:block;
+  margin: 25px auto;
+}
+img{
+  display:block;
+  margin: 25px auto;
+  border-radius: 25px;
+}
+body {
+background-color: #4d99b2;
+color: blue
+text-align: center
+}
+header {
+background-color: #af6350;
+  height: 3cm;
+}
+h1 {
+padding: 1cm;
+margin: 0;
+}
